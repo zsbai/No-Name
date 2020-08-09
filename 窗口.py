@@ -137,3 +137,5 @@ def bmp2notepad():
 if __name__=="__main__":
     # 创建多个窗口并初始化
     createWindows()
+    # 由bmp图像对窗口进行排列
+    bmp2notepad()
